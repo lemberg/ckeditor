@@ -53,7 +53,6 @@ var CKBUILDER_CONFIG = {
 		'table' : 1,
 		'sourcearea' : 1,
 		'image' : 1,
-		'symbol' : 1,
 		'maximize' : 1,
 		'removeformat' : 1,
 		'showborders' : 1,
@@ -61,7 +60,8 @@ var CKBUILDER_CONFIG = {
 		'filebrowser' : 1,
 		'stylescombo' : 1,
 		'htmlwriter' : 1,
-		'div' : 1
+		'div' : 1,
+		'tabletools' : 1
 	},
 	languages : {
 		'en' : 1,
